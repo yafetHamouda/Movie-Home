@@ -51,29 +51,3 @@ Enjoy! :)
 * [SASS](https://sass-lang.com/) - CSS Pre-Processor
 * [Esri](https://www.themoviedb.org/) - Layer rendering API
 
-## Contributors
-
-* **Alan Ayala** - *Initial work* - [ABW Technologies](http://www.abwtechnologies.com/)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* [WOW.js](https://mynameismatthieu.com/WOW/) - TScrolling animation
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll) - Scroll on link click animation
-* [Blizzard](https://www.blizzard.com) - Loader animation
-
-
-Viewport
-Window
-×
-×
-×
-Viewport
-Window
-×
-×
-×
